@@ -1,0 +1,14 @@
+C:\Users\600790\Desktop\C#\delegateBookStore\bin\Debug\net8.0\delegateBookStore.exe
+C:\Users\600790\Desktop\C#\delegateBookStore\bin\Debug\net8.0\delegateBookStore.deps.json
+C:\Users\600790\Desktop\C#\delegateBookStore\bin\Debug\net8.0\delegateBookStore.runtimeconfig.json
+C:\Users\600790\Desktop\C#\delegateBookStore\bin\Debug\net8.0\delegateBookStore.dll
+C:\Users\600790\Desktop\C#\delegateBookStore\bin\Debug\net8.0\delegateBookStore.pdb
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.AssemblyInfoInputs.cache
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.AssemblyInfo.cs
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.csproj.CoreCompileInputs.cache
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.dll
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\refint\delegateBookStore.dll
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.pdb
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\delegateBookStore.genruntimeconfig.cache
+C:\Users\600790\Desktop\C#\delegateBookStore\obj\Debug\net8.0\ref\delegateBookStore.dll
